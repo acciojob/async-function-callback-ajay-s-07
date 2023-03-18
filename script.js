@@ -14,5 +14,5 @@ function displayMessage(data) {
 
 // fetchData(displayMessage);
 // let sample = fetchData(displayMessage);
-let btn1 = document.querySelector("#btn");
-btn1.addEventListener("click", displayMessage);
+// let btn1 = document.querySelector("#btn");
+// btn1.addEventListener("click", displayMessage);
